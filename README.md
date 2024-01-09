@@ -1,0 +1,1 @@
+This project focues on the developement of a power augmenting exo suit for use in ardous enviornments. The key concept used here is the reliance on multifilament mckibben muscles or fibers for the actutaion  instead of the conventional servo or hydrualic actuators. 
